@@ -6,7 +6,6 @@
 - Check all the Mandatory Fields. [**Mongoose Model Validation**]
 - Already Register (Take care of this situation) [**Mongoose Query**]
 - Take care of Password (Crypt it).
-    - 
 - Generate Token or Send the Success Message.
 
 ### Steps to LogIn an User:
